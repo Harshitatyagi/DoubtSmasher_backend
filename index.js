@@ -85,7 +85,7 @@ app.get("/", (req, res) => {
 // const password = Ph3T5DjYHQeQgF8g;
 
 const DATABASE_URL =
-  "mongodb+srv://harshitatyagi242:P6HGzqt8dujFboq5@study.rzqiz99.mongodb.net/?retryWrites=true&w=majority&appName=study";
+ "mongodb+srv://harshitatyagi242:0ljsxQh7TDdCx2sr@cluster45.eusikuw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster45"
 
 const PORT = 5000;
 
